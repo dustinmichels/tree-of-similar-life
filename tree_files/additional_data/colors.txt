@@ -1,0 +1,9 @@
+TREE_COLORS
+SEPARATOR COMMA
+DATA
+Chondrichthyes,range,#D1F2EB,Fish
+Selachii,range,#D4E6F1,Sharks
+Arachnida,range,#E5E8E8,Arachnids
+Arthropoda,range,#F6DDCC,Arthropods
+Theria,range,#FADBD8,Theria
+Reptiles,range,
