@@ -3,10 +3,15 @@ SEPARATOR COMMA
 DATA
 
 Arthropoda,range,#FAE5D3,Arthropods
+Arachnida,range,#EDBB99,Arthropods
 Chondrichthyes,range,#D5F5E3,Fish
+Selachii,range,#A9DFBF,Sharks
 Osteoglossocephalai,range,#D4E6F1,Other Fish
 Sauria,range,#D7BDE2,Reptiles
 Theria,range,#FADBD8,Mammals
+Rodentia,range,#F1948A,Rodents
+Primates,range,#E6B0AA,Primates
+
 
 
 #Selachii,range,#D4E6F1,Sharks
