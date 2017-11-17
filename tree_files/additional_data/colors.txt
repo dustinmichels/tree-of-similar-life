@@ -1,9 +1,13 @@
 TREE_COLORS
 SEPARATOR COMMA
 DATA
-Chondrichthyes,range,#D1F2EB,Fish
-Selachii,range,#D4E6F1,Sharks
-Arachnida,range,#E5E8E8,Arachnids
-Arthropoda,range,#F6DDCC,Arthropods
-Theria,range,#FADBD8,Theria
-Reptiles,range,
+
+Arthropoda,range,#FAE5D3,Arthropods
+Chondrichthyes,range,#D5F5E3,Fish
+Osteoglossocephalai,range,#D4E6F1,Other Fish
+Sauria,range,#D7BDE2,Reptiles
+Theria,range,#FADBD8,Mammals
+
+
+#Selachii,range,#D4E6F1,Sharks
+#Arachnida,range,#E5E8E8,Arachnids

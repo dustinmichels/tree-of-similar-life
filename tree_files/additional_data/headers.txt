@@ -1,0 +1,14 @@
+DATASET_TEXT
+SEPARATOR COMMA
+DATASET_LABEL,Headers
+COLOR,#ff00ff
+DATA
+
+Arthropoda,Arthropods,-1,#CA6F1E,bold-italic,1.4
+Chondrichthyes,Chondrichthyes (Cartilaginous Fish),-1,#239B56,bold-italic,1.4
+Osteoglossocephalai,Osteoglossocephalai (Other Fish),-1,#2471A3,bold-italic,1.4
+Sauria,Sauria (Reptiles),-1,#76448A,bold-italic,1.4
+Theria,Theria (Mammals),-1,#CB4335,bold-italic,1.4
+
+#Selachii,Selachii (Sharks),-1,#2471A3,bold-italic,1
+#Arachnida,Arachnids,-1,#707B7C,bold-italic,1
